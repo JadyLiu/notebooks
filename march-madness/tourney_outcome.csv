@@ -1,0 +1,64 @@
+Region,Round,Outcome
+Midwest,First Round,1 Seed Kansas defeats 16 Penn 83.03-67.07 with 95.97% probability.
+Midwest,First Round,8 Seed Seton Hall defeats 9 North Carolina State 81.32-78.13 with 65.62% probability.
+Midwest,First Round,5 Seed Clemson defeats 12 New Mexico State 69.03-63.15 with 76.45% probability.
+Midwest,First Round,4 Seed Auburn defeats 13 College of Charleston 82.21-70.18 with 91.63% probability.
+Midwest,First Round,6 Seed Texas Christian defeats 11 Arizona State 84.3-81.03 with 65.95% probability.
+Midwest,First Round,3 Seed Michigan State defeats 14 Bucknell 84.27-68.94 with 95.46% probability.
+Midwest,First Round,10 Seed Oklahoma upsets 7 Rhode Island 83.17-82.94 with 50.77% probability.
+Midwest,First Round,2 Seed Duke defeats 15 Iona 92.67-70.48 with 98.79% probability.
+East,First Round,1 Seed Villanova defeats 16 Radford 81.28-57.81 with 99.06% probability.
+East,First Round,8 Seed Virginia Tech defeats 9 Alabama 73.11-71.5 with 58.26% probability.
+East,First Round,5 Seed West Virginia defeats 12 Murray State 80.28-73.37 with 79.91% probability.
+East,First Round,4 Seed Wichita State defeats 13 Marshall 90.89-80.28 with 89.21% probability.
+East,First Round,6 Seed Florida defeats 11 UCLA 79.52-74.49 with 73.28% probability.
+East,First Round,3 Seed Texas Tech defeats 14 Stephen F. Austin 78.39-64.6 with 93.94% probability.
+East,First Round,10 Seed Butler upsets 7 Arkansas 81.1-76.23 with 72.09% probability.
+East,First Round,2 Seed Purdue defeats 15 Cal State Fullerton 87.47-64.64 with 98.93% probability.
+South,First Round,1 Seed Virginia defeats 16 UMBC 77.57-51.4 with 99.45% probability.
+South,First Round,8 Seed Creighton defeats 9 Kansas State 75.18-72.64 with 62.65% probability.
+South,First Round,5 Seed Kentucky defeats 12 Davidson 74.85-69.36 with 75.05% probability.
+South,First Round,4 Seed Arizona defeats 13 Buffalo 87.02-78.49 with 84.55% probability.
+South,First Round,6 Seed Miami (FL) defeats 11 Loyola (IL) 67.95-66.61 with 56.94% probability.
+South,First Round,3 Seed Tennessee defeats 14 Wright State 75.98-58.57 with 96.94% probability.
+South,First Round,7 Seed Nevada defeats 10 Texas 73.64-72.9 with 53.99% probability.
+South,First Round,2 Seed Cincinnati defeats 15 Georgia State 73.29-58.48 with 94.99% probability.
+West,First Round,1 Seed Xavier defeats 16 Texas Southern 96.25-71.63 with 99.25% probability.
+West,First Round,8 Seed Missouri defeats 9 Florida State 76.55-75.67 with 54.71% probability.
+West,First Round,5 Seed Ohio State defeats 12 South Dakota State 83.5-71.23 with 91.99% probability.
+West,First Round,4 Seed Gonzaga defeats 13 North Carolina-Greensboro 74.96-63.09 with 91.4% probability.
+West,First Round,6 Seed Houston defeats 11 San Diego State 75.82-69.39 with 78.35% probability.
+West,First Round,3 Seed Michigan defeats 14 Montana 73.08-63.08 with 88.0% probability.
+West,First Round,7 Seed Texas A&M defeats 10 Providence 71.45-68.45 with 64.76% probability.
+West,First Round,2 Seed UNC defeats 15 Lipscomb 96.65-74.75 with 98.72% probability.
+Midwest,Second Round,1 Seed Kansas defeats 8 Seton Hall 81.56-76.91 with 71.8% probability.
+Midwest,Second Round,5 Seed Clemson upsets 4 Auburn 75.34-74.49 with 53.82% probability.
+Midwest,Second Round,3 Seed Michigan State defeats 6 Texas Christian 80.1-73.98 with 77.31% probability.
+Midwest,Second Round,2 Seed Duke defeats 10 Oklahoma 88.31-78.95 with 86.6% probability.
+East,Second Round,1 Seed Villanova defeats 8 Virginia Tech 81.91-72.01 with 87.77% probability.
+East,Second Round,5 Seed West Virginia upsets 4 Wichita State 81.34-79.27 with 59.74% probability.
+East,Second Round,3 Seed Texas Tech defeats 6 Florida 69.99-69.74 with 51.61% probability.
+East,Second Round,2 Seed Purdue defeats 10 Butler 77.83-73.02 with 72.41% probability.
+South,Second Round,1 Seed Virginia defeats 8 Creighton 66.93-56.74 with 88.4% probability.
+South,Second Round,5 Seed Kentucky upsets 4 Arizona 78.1-75.3 with 63.13% probability.
+South,Second Round,3 Seed Tennessee defeats 6 Miami (FL) 71.66-66.84 with 72.47% probability.
+South,Second Round,2 Seed Cincinnati defeats 7 Nevada 76.69-68.67 with 83.22% probability.
+West,Second Round,1 Seed Xavier defeats 8 Missouri 79.0-74.71 with 70.3% probability.
+West,Second Round,4 Seed Gonzaga defeats 5 Ohio State 75.1-73.7 with 57.24% probability.
+West,Second Round,3 Seed Michigan defeats 6 Houston 70.68-68.43 with 61.31% probability.
+West,Second Round,2 Seed UNC defeats 7 Texas A&M 80.4-75.95 with 71.01% probability.
+Midwest,Sweet 16,1 Seed Kansas defeats 5 Clemson 74.49-72.3 with 61.01% probability.
+Midwest,Sweet 16,2 Seed Duke defeats 3 Michigan State 80.38-76.45 with 68.82% probability.
+East,Sweet 16,1 Seed Villanova defeats 5 West Virginia 81.1-76.43 with 71.88% probability.
+East,Sweet 16,2 Seed Purdue defeats 3 Texas Tech 72.79-68.63 with 69.78% probability.
+South,Sweet 16,1 Seed Virginia defeats 5 Kentucky 66.47-58.28 with 83.68% probability.
+South,Sweet 16,2 Seed Cincinnati defeats 3 Tennessee 63.2-61.24 with 59.91% probability.
+West,Sweet 16,4 Seed Gonzaga upsets 1 Xavier 81.96-78.73 with 65.09% probability.
+West,Sweet 16,2 Seed UNC defeats 3 Michigan 73.83-70.98 with 64.06% probability.
+Midwest,Elite 8,2 Seed Duke upsets 1 Kansas 83.44-78.32 with 73.07% probability.
+East,Elite 8,1 Seed Villanova defeats 2 Purdue 79.25-76.51 with 63.59% probability.
+South,Elite 8,1 Seed Virginia defeats 2 Cincinnati 57.55-51.97 with 75.35% probability.
+West,Elite 8,2 Seed UNC defeats 4 Gonzaga 82.28-79.05 with 65.76% probability.
+Final Four,Final Four,2 Seed Duke defeats 1 Villanova 82.91-81.68 with 55.71% probability.
+Final Four,Final Four,1 Seed Virginia defeats 2 UNC 62.86-58.17 with 71.95% probability.
+Final Four,Finals,1 Seed Virginia defeats 2 Duke 63.51-61.83 with 58.55% probability.

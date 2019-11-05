@@ -1,0 +1,33 @@
+﻿loc,underdog,favorite,region,seed_match_1,seed_match_2,seed_match_3,seed_match_4,seed_match_5
+0,2018_Penn,2018_Kansas,Midwest,Midwest_1_16,Midwest_1_8,Midwest_1_4,Midwest_1_2,mid_east
+0,2018_North Carolina State,2018_Seton Hall,Midwest,Midwest_8_9,Midwest_1_8,Midwest_1_4,Midwest_1_2,mid_east
+0,2018_New Mexico State,2018_Clemson,Midwest,Midwest_5_12,Midwest_4_5,Midwest_1_4,Midwest_1_2,mid_east
+0,2018_College of Charleston,2018_Auburn,Midwest,Midwest_4_13,Midwest_4_5,Midwest_1_4,Midwest_1_2,mid_east
+0,2018_Arizona State,2018_Texas Christian,Midwest,Midwest_6_11,Midwest_3_6,Midwest_2_3,Midwest_1_2,mid_east
+0,2018_Bucknell,2018_Michigan State,Midwest,Midwest_3_14,Midwest_3_6,Midwest_2_3,Midwest_1_2,mid_east
+0,2018_Oklahoma,2018_Rhode Island,Midwest,Midwest_7_10,Midwest_2_7,Midwest_2_3,Midwest_1_2,mid_east
+0,2018_Iona,2018_Duke,Midwest,Midwest_2_15,Midwest_2_7,Midwest_2_3,Midwest_1_2,mid_east
+0,2018_Radford,2018_Villanova,East,East_1_16,East_1_8,East_1_4,East_1_2,mid_east
+0,2018_Alabama,2018_Virginia Tech,East,East_8_9,East_1_8,East_1_4,East_1_2,mid_east
+0,2018_Murray State,2018_West Virginia,East,East_5_12,East_4_5,East_1_4,East_1_2,mid_east
+0,2018_Marshall,2018_Wichita State,East,East_4_13,East_4_5,East_1_4,East_1_2,mid_east
+0,2018_UCLA,2018_Florida,East,East_6_11,East_3_6,East_2_3,East_1_2,mid_east
+0,2018_Stephen F. Austin,2018_Texas Tech,East,East_3_14,East_3_6,East_2_3,East_1_2,mid_east
+0,2018_Butler,2018_Arkansas,East,East_7_10,East_2_7,East_2_3,East_1_2,mid_east
+0,2018_Cal State Fullerton,2018_Purdue,East,East_2_15,East_2_7,East_2_3,East_1_2,mid_east
+0,2018_UMBC,2018_Virginia,South,South_1_16,South_1_8,South_1_4,South_1_2,south_west
+0,2018_Kansas State,2018_Creighton,South,South_8_9,South_1_8,South_1_4,South_1_2,south_west
+0,2018_Davidson,2018_Kentucky,South,South_5_12,South_4_5,South_1_4,South_1_2,south_west
+0,2018_Buffalo,2018_Arizona,South,South_4_13,South_4_5,South_1_4,South_1_2,south_west
+0,2018_Loyola (IL),2018_Miami (FL),South,South_6_11,South_3_6,South_2_3,South_1_2,south_west
+0,2018_Wright State,2018_Tennessee,South,South_3_14,South_3_6,South_2_3,South_1_2,south_west
+0,2018_Texas,2018_Nevada,South,South_7_10,South_2_7,South_2_3,South_1_2,south_west
+0,2018_Georgia State,2018_Cincinnati,South,South_2_15,South_2_7,South_2_3,South_1_2,south_west
+0,2018_Texas Southern,2018_Xavier,West,West_1_16,West_1_8,West_1_4,West_1_2,south_west
+0,2018_Florida State,2018_Missouri,West,West_8_9,West_1_8,West_1_4,West_1_2,south_west
+0,2018_South Dakota State,2018_Ohio State,West,West_5_12,West_4_5,West_1_4,West_1_2,south_west
+0,2018_North Carolina-Greensboro,2018_Gonzaga,West,West_4_13,West_4_5,West_1_4,West_1_2,south_west
+0,2018_San Diego State,2018_Houston,West,West_6_11,West_3_6,West_2_3,West_1_2,south_west
+0,2018_Montana,2018_Michigan,West,West_3_14,West_3_6,West_2_3,West_1_2,south_west
+0,2018_Providence,2018_Texas A&M,West,West_7_10,West_2_7,West_2_3,West_1_2,south_west
+0,2018_Lipscomb,2018_UNC,West,West_2_15,West_2_7,West_2_3,West_1_2,south_west
